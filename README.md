@@ -7,3 +7,7 @@ this is first pull step
 
 さらに書き換え　直接Pullできるのかチェック 20210728 1742
 //とにかく commit push すれば更新できるとわかった
+
+//origin master 使っていない 20210729
+-u をつけるとpush が楽になる
+git commit -m "pushだけでいいかもしれない"
