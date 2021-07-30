@@ -11,3 +11,5 @@ this is first pull step
 //origin master 使っていない 20210729
 -u をつけるとpush が楽になる
 git commit -m "pushだけでいいかもしれない"
+
+慣れるまでがんばろう　0730
